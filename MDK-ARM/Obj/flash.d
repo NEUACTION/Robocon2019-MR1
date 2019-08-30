@@ -1,0 +1,10 @@
+.\obj\flash.o: ..\MotionCard\flash.c
+.\obj\flash.o: ..\MotionCard\flash.h
+.\obj\flash.o: ..\MotionCard\stm32f4xx_flash.h
+.\obj\flash.o: ..\MotionCard\stm32f4xx.h
+.\obj\flash.o: ..\Libraries\CMSIS\core_cm4.h
+.\obj\flash.o: D:\keil5.27AnzhuangLujing\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\flash.o: ..\Libraries\CMSIS\core_cmInstr.h
+.\obj\flash.o: ..\Libraries\CMSIS\cmsis_armcc.h
+.\obj\flash.o: ..\Libraries\CMSIS\core_cmFunc.h
+.\obj\flash.o: ..\Libraries\CMSIS\system_stm32f4xx.h

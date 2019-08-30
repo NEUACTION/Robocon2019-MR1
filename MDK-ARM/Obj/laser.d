@@ -1,0 +1,13 @@
+.\obj\laser.o: ..\Action_User\laser.c
+.\obj\laser.o: ..\Action_User\laser.h
+.\obj\laser.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h
+.\obj\laser.o: ..\Libraries\CMSIS\stm32f4xx.h
+.\obj\laser.o: ..\Libraries\CMSIS\core_cm4.h
+.\obj\laser.o: D:\action1\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\laser.o: ..\Libraries\CMSIS\core_cmInstr.h
+.\obj\laser.o: ..\Libraries\CMSIS\cmsis_armcc.h
+.\obj\laser.o: ..\Libraries\CMSIS\core_cmFunc.h
+.\obj\laser.o: ..\Libraries\CMSIS\system_stm32f4xx.h
+.\obj\laser.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dma.h
+.\obj\laser.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h
+.\obj\laser.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h

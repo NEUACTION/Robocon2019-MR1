@@ -1,0 +1,13 @@
+.\obj\adc.o: ..\Action_User\adc.c
+.\obj\adc.o: ..\Action_User\adc.h
+.\obj\adc.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h
+.\obj\adc.o: ..\Libraries\CMSIS\stm32f4xx.h
+.\obj\adc.o: ..\Libraries\CMSIS\core_cm4.h
+.\obj\adc.o: D:\keil5.27AnzhuangLujing\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\adc.o: ..\Libraries\CMSIS\core_cmInstr.h
+.\obj\adc.o: ..\Libraries\CMSIS\cmsis_armcc.h
+.\obj\adc.o: ..\Libraries\CMSIS\core_cmFunc.h
+.\obj\adc.o: ..\Libraries\CMSIS\system_stm32f4xx.h
+.\obj\adc.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dma.h
+.\obj\adc.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h
+.\obj\adc.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h

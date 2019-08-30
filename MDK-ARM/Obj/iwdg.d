@@ -1,0 +1,10 @@
+.\obj\iwdg.o: ..\Action_User\iwdg.c
+.\obj\iwdg.o: ..\Action_User\iwdg.h
+.\obj\iwdg.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_iwdg.h
+.\obj\iwdg.o: ..\Libraries\CMSIS\stm32f4xx.h
+.\obj\iwdg.o: ..\Libraries\CMSIS\core_cm4.h
+.\obj\iwdg.o: D:\keil5.27AnzhuangLujing\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\iwdg.o: ..\Libraries\CMSIS\core_cmInstr.h
+.\obj\iwdg.o: ..\Libraries\CMSIS\cmsis_armcc.h
+.\obj\iwdg.o: ..\Libraries\CMSIS\core_cmFunc.h
+.\obj\iwdg.o: ..\Libraries\CMSIS\system_stm32f4xx.h
